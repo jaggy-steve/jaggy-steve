@@ -11,8 +11,8 @@ My expertise revolves around leveraging data-driven insights and machine learnin
 
 ## Technical Skills
 - Programming: Python, R, SQL, C++
-- Tools & Libraries: Pandas, NumPy, Scikit-learn, TensorFlow
-- Financial Modeling: Time Series Analysis, Monte Carlo Simulation, Portfolio Optimization
+- Tools & Libraries: Pandas, NumPy, Scikit-learn
+- Financial Modeling: Time Series Analysis, Monte Carlo Simulation, Portfolio Optimisation
 
 ## Contact
 - LinkedIn: www.linkedin.com/in/jack-stephens-1a4b1b91
