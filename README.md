@@ -1,7 +1,11 @@
 ## Hi there! I'm Jack 👋
 
-I'm a Quantitative Researcher with a Master's degree in Mathematics, (another) Master's degree in Data Science and AI, and a Bachelor's degree in Mathematics & Economics.
-My interests and expertise revolves around leveraging data-driven insights and machine learning to drive successful trading strategies in the commodities markets.
+Quant Researcher with interests in Finance, Physics and Football!
+
+## Qualifications
+MSc Mathematics - King's College London
+BSc Mathematics with Economics - Exeter University
+L7 AI & Data Science Apprenticeship - Cambridge Spark
 
 ## Expertise
 - 🌟 Quantitative Analysis
